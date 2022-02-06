@@ -11,3 +11,6 @@
 
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=UlrichVonRekkenin&theme=dark)](https://leetcode.com/)
 - 🌱 I’m currently learning computer science stuff...
+- I like music
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=cfdrbolchrjvd4a35w5zwrps4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=cfdrbolchrjvd4a35w5zwrps4&cover_image=true&theme=default&bar_color=2813ec&bar_color_cover=true)]]
