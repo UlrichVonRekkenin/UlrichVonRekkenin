@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on evolutionary calculations (like a genetic algorithm).
 - ⚡ Fun fact: ...
+
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 - My brain training attempts:
+
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=UlrichVonRekkenin&theme=dark)](https://leetcode.com/)
 - 🌱 I’m currently learning computer science stuff...
