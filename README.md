@@ -1,4 +1,12 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋)](https://git.io/typing-svg)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=UlrichVonRekkenin&theme=dark)](https://github.com/madushadhanushka/github-readme)
+
+<!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) -->
 
 <!--
 **UlrichVonRekkenin/UlrichVonRekkenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
